@@ -1,0 +1,254 @@
+.mediaViewInfo {
+	--web-view-name: Biograohie;
+	--web-view-id: Biograohie;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Biograohie;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Biograohie {
+	position: absolute;
+	width: 1366px;
+	height: 1071px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Biograohie;
+	--web-view-id: Biograohie;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#ID2fond_ {
+	position: absolute;
+	width: 2774px;
+	height: 1960px;
+	left: -427px;
+	top: 0px;
+	overflow: visible;
+}
+#Ligne_1_ {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_1_ {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 71px;
+	left: 1365.5px;
+	top: 26.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_4 {
+	opacity: 0.67;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_4 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1056px;
+	height: 744px;
+	left: 164px;
+	top: 232px;
+}
+#MOI {
+	position: absolute;
+	width: 226px;
+	height: 215px;
+	left: 188px;
+	top: 267px;
+	overflow: visible;
+}
+#CHEZ_ALICE_est_un_projet_tudia {
+	left: 502px;
+	top: 375px;
+	position: absolute;
+	overflow: hidden;
+	width: 599px;
+	height: 349px;
+	text-align: left;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(71,71,71,1);
+}
+#Un_projet_tudiant_ {
+	left: 499px;
+	top: 292px;
+	position: absolute;
+	overflow: visible;
+	width: 704px;
+	height: 83px;
+	text-align: left;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(71,71,71,1);
+}
+#Hugo_bochdanowicz {
+	left: 200px;
+	top: 486px;
+	position: absolute;
+	overflow: visible;
+	width: 203px;
+	height: 62px;
+	text-align: left;
+	font-family: Sitka Banner;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(71,71,71,1);
+}
+#Ligne_2 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_2 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 411.5px;
+	left: 456.5px;
+	top: 296px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ENSCI_LOGO_HD_FINAL_1 {
+	position: absolute;
+	width: 238px;
+	height: 178px;
+	left: 188px;
+	top: 517px;
+	overflow: visible;
+}
+#Acteur_et_voix__Eva_Carras__Lu {
+	left: 502px;
+	top: 734px;
+	position: absolute;
+	overflow: visible;
+	width: 649px;
+	height: 87px;
+	text-align: left;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(66,66,66,1);
+}
+#Musique__The_Caretaker_-_Every {
+	left: 502px;
+	top: 833px;
+	position: absolute;
+	overflow: visible;
+	width: 549px;
+	height: 91px;
+	text-align: left;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(66,66,66,1);
+}
+#Rectangle_16 {
+	opacity: 0.67;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_16 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1384px;
+	height: 140px;
+	left: 0px;
+	top: -1px;
+}
+#LOGO_bk {
+	position: absolute;
+	width: 526px;
+	height: 296px;
+	left: -22px;
+	top: -27px;
+	overflow: visible;
+}
+#Ligne_11 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_11 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 71px;
+	left: 976px;
+	top: 25.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#CHEZ_ALICE_bm {
+	left: 691px;
+	top: 45px;
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	height: 41px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(71,71,71,1);
+}
+#BIOGRAPHIE__bn {
+	left: 1110px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 163px;
+	height: 52px;
+	text-align: left;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(71,71,71,1);
+}

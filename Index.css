@@ -1,0 +1,349 @@
+.mediaViewInfo {
+	--web-view-name: Index;
+	--web-view-id: Index;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Index;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Index {
+	position: absolute;
+	width: 1366px;
+	height: 4418px;
+	background-color: rgba(0,0,0,1);
+	overflow: hidden;
+	--web-view-name: Index;
+	--web-view-id: Index;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Groupe_13 {
+	position: absolute;
+	width: 2774px;
+	height: 3828px;
+	left: -474px;
+	top: 0px;
+	overflow: visible;
+}
+#ID2fond {
+	position: absolute;
+	width: 2774px;
+	height: 1960px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ID2fond_j {
+	position: absolute;
+	width: 2774px;
+	height: 1960px;
+	left: 0px;
+	top: 1868px;
+	overflow: visible;
+}
+#chez_ALICE2 {
+	position: absolute;
+	width: 1366px;
+	height: 769px;
+	left: 0px;
+	top: 3649px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	opacity: 0.67;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1384px;
+	height: 140px;
+	left: 0px;
+	top: 0px;
+}
+#LOGO {
+	position: absolute;
+	width: 526px;
+	height: 296px;
+	left: -22px;
+	top: -26px;
+	overflow: visible;
+}
+#Ligne_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_1 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 71px;
+	left: 976px;
+	top: 26.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#SYNOPSIS {
+	left: 0px;
+	top: 403px;
+	position: absolute;
+	overflow: visible;
+	width: 1367px;
+	height: 78px;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(235,235,235,1);
+}
+#NOTE_DINTENTION {
+	left: 0px;
+	top: 943px;
+	position: absolute;
+	overflow: visible;
+	width: 1367px;
+	height: 78px;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(235,235,235,1);
+}
+#INTENTION_TECHNIQUE_ {
+	left: 0px;
+	top: 1831px;
+	position: absolute;
+	overflow: visible;
+	width: 1367px;
+	height: 78px;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(235,235,235,1);
+}
+#Fin_de_soires_chez_Alice_elle_ {
+	left: 81px;
+	top: 502px;
+	position: absolute;
+	overflow: visible;
+	width: 1205px;
+	height: 292px;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(208,208,208,1);
+}
+#La_thmatique_du_rve_et_de_la_d {
+	left: 127px;
+	top: 1042px;
+	position: absolute;
+	overflow: visible;
+	width: 1160px;
+	height: 708px;
+	text-align: left;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(208,208,208,1);
+}
+#Le_logiciel_est_coder_grce__3_ {
+	left: 149px;
+	top: 2529px;
+	position: absolute;
+	overflow: hidden;
+	width: 1069px;
+	height: 227px;
+	text-align: left;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(208,208,208,1);
+}
+#Il_est_donc_question_dun_logic {
+	left: 241px;
+	top: 1930px;
+	position: absolute;
+	overflow: visible;
+	width: 932px;
+	height: 168px;
+	text-align: left;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(208,208,208,1);
+}
+#Chaque_plan_et_squence_Vido_se {
+	left: 642px;
+	top: 2850px;
+	position: absolute;
+	overflow: visible;
+	width: 595px;
+	height: 786px;
+	text-align: left;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(208,208,208,1);
+}
+#Ligne_7 {
+	fill: transparent;
+	stroke: rgba(176,176,176,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_7 {
+	overflow: visible;
+	position: absolute;
+	width: 1206.5px;
+	height: 2px;
+	left: 81px;
+	top: 849.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#CHEZ_ALICE {
+	left: 691px;
+	top: 46px;
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	height: 41px;
+	text-align: left;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(71,71,71,1);
+}
+#Groupe_2 {
+	position: absolute;
+	width: 280.991px;
+	height: 346.715px;
+	left: 271.877px;
+	top: 3219.852px;
+	overflow: visible;
+}
+#Groupe_4 {
+	position: absolute;
+	width: 285.753px;
+	height: 346.715px;
+	left: 267.115px;
+	top: 2837.5px;
+	overflow: visible;
+}
+#Groupe_12 {
+	position: absolute;
+	width: 1068.015px;
+	height: 418.863px;
+	left: 148.992px;
+	top: 2074.5px;
+	overflow: visible;
+}
+#Groupe_8 {
+	position: absolute;
+	width: 528.668px;
+	height: 418.335px;
+	left: 0px;
+	top: 0.528px;
+	overflow: visible;
+}
+#Groupe_11 {
+	position: absolute;
+	width: 535.681px;
+	height: 418.863px;
+	left: 532.334px;
+	top: 0px;
+	overflow: visible;
+}
+#BIOGRAPHIE_ {
+	left: 1110px;
+	top: 35px;
+	position: absolute;
+	overflow: visible;
+	width: 163px;
+	height: 52px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Biograohie.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(71,71,71,1);
+}
+#Ligne_9 {
+	fill: transparent;
+	stroke: rgba(176,176,176,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_9 {
+	overflow: visible;
+	position: absolute;
+	width: 1206.5px;
+	height: 2px;
+	left: 81px;
+	top: 849.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_10 {
+	fill: transparent;
+	stroke: rgba(176,176,176,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_10 {
+	overflow: visible;
+	position: absolute;
+	width: 1206.5px;
+	height: 2px;
+	left: 81px;
+	top: 1749.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
